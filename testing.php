@@ -7,6 +7,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-echo "Hello world dudes 902!";
+echo "Hello world dudes.";
 
 ?>
